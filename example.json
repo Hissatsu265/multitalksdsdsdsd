@@ -1,0 +1,13 @@
+{
+    "prompt": "A woman and a man are facing each other, talking naturally. Only their lips move in sync with the audio. No head, eye, or body movement.",
+    "cond_image": "/workspace/MultiTalk/2nguoi.png",
+    "audio_type": "add",
+    "cond_audio": {
+        "person1": "/workspace/MultiTalk/nam2s.wav",
+        "person2": "/workspace/MultiTalk/nu2s.wav"
+    },
+    "bbox": {
+        "person1": [0,0,250,700], 
+        "person2": [0,280,300,700]
+    }
+}

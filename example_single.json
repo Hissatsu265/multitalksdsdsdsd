@@ -1,0 +1,7 @@
+{
+    "prompt": "A young woman standing still in front of a green background. She is facing the camera directly. Her lips move naturally and gently in sync with the speech, without any other facial or body movements. There are no eye blinks, head turns, or hand gestures. The expression remains neutral and calm throughout the video.",
+    "cond_image": "/workspace/MultiTalk/anh11.png",
+    "cond_audio": {
+        "person1": "/workspace/MultiTalk/ella_nu.wav"
+    }
+}
